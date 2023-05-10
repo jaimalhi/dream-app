@@ -1,5 +1,6 @@
 # Dream App
-- The purpose of this application is to send requests to OpenAI's DALLE API to generate images based on user input and display them in a neat manner
+- The purpose of this application is to send requests to OpenAI's DALL-E API to generate images based on user input and display them in a neat manner
+- To utilize DALL-E, purchase is required
 
 ## How to Use + Set Up
 1. Terminal Commands
